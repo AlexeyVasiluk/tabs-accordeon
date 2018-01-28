@@ -1,0 +1,30 @@
+/* font-family: "LucidaRegular"; */
+@font-face {
+    font-family: 'LucidaRegular';
+    src: url('Lucida/Lucida Sans Regular.eot');
+    src: url("Lucida/Lucida Sans Regular.eot?#iefix")format("embedded-opetype"),
+    url('Lucida/Lucida Sans Regular.woff') format('woff'),
+    url('Lucida/Lucida Sans Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* font-family: "ArialRegular"; */
+@font-face {
+    font-family: "ArialRegular";
+    src: url("Arial/ArialRegular/ArialRegular.eot");
+    src: url("Arial/ArialRegular/ArialRegular.eot?#iefix")format("embedded-opentype"),
+    url("Arial/ArialRegular/ArialRegular.woff") format("woff"),
+    url("Arial/ArialRegular/ArialRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ArialBold"; */
+@font-face {
+    font-family: "ArialBold";
+    src: url("Arial/ArialBold/ArialBold.eot");
+    src: url("Arial/ArialBold/ArialBold.eot?#iefix")format("embedded-opentype"),
+    url("Arial/ArialBold/ArialBold.woff") format("woff"),
+    url("Arial/ArialBold/ArialBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
